@@ -6,3 +6,4 @@ privtopub(private-key1)     генерит публичный ключ от со
 
 pubtoaddr(public_key1)      генерит адрес от публичного ключа заданного в public_key1
 
+1
